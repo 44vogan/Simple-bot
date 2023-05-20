@@ -16,13 +16,12 @@ Pixel-Robot is a multiple-purpose pixel-based bot that can help you with various
 •  And much more!<br/>
 
 Pixel-Robot is easy to use and customize. You can create your own scripts using built-in GUI editor. <br/>
-You can also use the global hook to stop the program even when not focused on it.<br/>
 
-Pixel-Robot is open source and free to use.<br/>
+Pixel-Robot is free to use.<br/>
 You can download it from GitHub and start using it right away. <br/>
-You can also contribute to the project by reporting issues, suggesting features, or submitting pull requests.<br/>
+You can also contribute to the project by reporting issues or suggesting features<br/>
 
 So don't waste your time and energy on tedious tasks.<br/>
 Download Pixel-Robot today and let it do the work for you. <br/>
-Whether you want to play games, browse websites, or manage files, Pixel-Robot is the ultimate tool for you.<br/>
+Pixel-Robot is the ultimate tool for you.<br/>
 Remember: when in need, better use Pixel-Robot!
