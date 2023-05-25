@@ -1,5 +1,8 @@
 # Pixel-Robot
 <img src="https://raw.githubusercontent.com/44vogan/Pixel-Robot/main/Screenshot.png" alt="Screen shot"><br/>
+只要检测一个像素就可以知道图片是否出现<br/>
+<img src="https://raw.githubusercontent.com/44vogan/Pixel-Robot/main/img.png" alt="Screen shot"><br/>
+<img src="https://raw.githubusercontent.com/44vogan/Pixel-Robot/main/pixel.png" alt="Screen shot"><br/>
 Are you tired of boring and repetitive tasks on your computer? <br/>
 Do you wish you had a smart and versatile assistant that can do anything you want? <br/>
 Do you need a reliable and powerful tool that can automate your routine procedures? <br/>
