@@ -1,7 +1,7 @@
 # Pixel-Robot
 <img src="https://raw.githubusercontent.com/44vogan/Pixel-Robot/main/Screenshot.png" alt="Screen shot"><br/>
 A straw shows which way the wind blows<br/>
-Just detecting one pixel can tell if the image appears<br/>
+One pixel can tell if the image appears<br/>
 <img src="https://raw.githubusercontent.com/44vogan/Pixel-Robot/main/img.png" alt="Screen shot"><br/>
 <img src="https://raw.githubusercontent.com/44vogan/Pixel-Robot/main/pixel.png" alt="Screen shot"><br/>
 Are you tired of boring and repetitive tasks on your computer? <br/>
