@@ -1,4 +1,4 @@
-# Pixel automator
+# Pixel Robot
 <h2>A straw shows which way the wind blows<br/>One pixel can tell if the image appears</h2>
 <img src="https://raw.githubusercontent.com/44vogan/Pixel-Robot/main/Screenshot%202023-06-02%20151540.png" alt="Screen shot"><br/>
 <img src="https://raw.githubusercontent.com/44vogan/Pixel-Robot/main/img.png" alt="Screen shot"><br/>
