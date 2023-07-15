@@ -1,5 +1,5 @@
 # Px Robot
-<img src="[https://raw.githubusercontent.com/44vogan/Pixel-Robot/main/Screenshot_20230618164533.png](https://raw.githubusercontent.com/44vogan/Px-Robot/main/v032.png)" alt="Screen shot"><br/>
+<img src="https://raw.githubusercontent.com/44vogan/Px-Robot/main/v032.png" alt="Screen shot"><br/>
 <h2>A straw shows which way the wind blows<br/>One pixel can tell if the image appears</h2>
 <img src="https://raw.githubusercontent.com/44vogan/Pixel-Robot/main/img.png" alt="Screen shot"><br/>
 <img src="https://raw.githubusercontent.com/44vogan/Pixel-Robot/main/pixel.png" alt="Screen shot"><br/>
