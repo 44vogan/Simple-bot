@@ -1,0 +1,83 @@
+{
+    "build": {
+        "beforeDevCommand": "npm run dev",
+        "beforeBuildCommand": "npm run build",
+        "devPath": "http://localhost:1420",
+        "distDir": "../dist",
+        "withGlobalTauri": true
+    },
+    "package": {
+        "productName": "Simple-bot",
+        "version": "0.6.0"
+    },
+    "tauri": {
+        "allowlist": {
+            "all": false,
+            "dialog": {
+                "all": true,
+                "ask": true,
+                "confirm": true,
+                "message": true,
+                "open": true,
+                "save": true
+            },
+            "notification": {
+                "all": true
+            },
+            "process": {
+                "all": false,
+                "exit": true,
+                "relaunch": true,
+                "relaunchDangerousAllowSymlinkMacos": false
+            },
+            "globalShortcut": {
+                "all": true
+            },
+            "shell": {
+                "all": false,
+                "open": true
+            },
+            "http": {
+                "all": true
+            }
+        },
+        "bundle": {
+            "windows": {
+                "wix": {
+                    "language": [
+                        "en-US"
+                    ]
+                }
+            },
+            "active": true,
+            "icon": [
+                "icons/icon.ico"
+            ],
+            "identifier": "com.vg.smrobot",
+            "targets": "all"
+        },
+        "security": {
+            "csp": null
+        },
+        "updater": {
+            "active": true,
+            "windows": {
+                "installMode": "passive"
+            },
+            "endpoints": [
+                "https://.com/updater.json"
+            ],
+            "dialog": true,
+            "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEYwMDY3NTRDMkE1MTlFRkUKUldUK25sRXFUSFVHOE9IQzZUV0w2UzJqSHYzWmhXMElNRWRiV09kQ3hXTWpjRk5PaHB6bWY3Vm4K"
+        },
+        "windows": [
+            {
+                "fullscreen": false,
+                "resizable": true,
+                "title": "Simple-bot",
+                "width": 1600,
+                "height": 1050
+            }
+        ]
+    }
+}

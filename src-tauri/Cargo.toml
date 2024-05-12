@@ -1,0 +1,28 @@
+[package]
+name = "pixel-robot-vue-ts"
+version = "0.0.0"
+description = "Px Robot"
+authors = ["you"]
+license = ""
+repository = ""
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[build-dependencies]
+tauri-build = { version = "1.3", features = [] }
+
+[dependencies]
+tauri = { version = "1.3", features = [ "http-all", "dialog-all", "process-relaunch", "notification-all", "global-shortcut-all", "shell-open", "process-exit", "updater"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+enigo = "0.1.2"
+winapi = { version = "0.3", features = ["winuser"] }
+image = "0.24.6"
+screenshots = "0.5.4"
+tauri-plugin-single-instance = { git = "https://github.com/tauri-apps/plugins-workspace", branch = "v1" }
+
+[features]
+# this feature is used for production builds or when `devPath` points to the filesystem
+# DO NOT REMOVE!!
+custom-protocol = ["tauri/custom-protocol"]
